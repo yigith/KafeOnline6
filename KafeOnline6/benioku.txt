@@ -1,0 +1,9 @@
+Size verilen arayüzlere uygun olarak aþaðýdaki formlarý oluþturun.
+
+Kafe Arayüz
+form1 AnaForm: MenuStrip, ListView
+form2 SiparisForm: Label, Button, DataGridView, NumericUpDown, ComboBox
+form3 UrunlerForm: TextBox, Label, Button, DataGridView, NumericUpDown
+form4 GecmisSiparislerForm: SplitContainer, Label, DataGridView
+
+Veriler örnektir. Masalarý ve bilgileri eklemeniz istenememektedir. Bunlarý sonrasýnda beraber programý geliþtirdikçe ekleyeceðiz. Form controllerinin name özelliklerine beraber ayný isimleri gireceðiz.
